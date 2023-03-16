@@ -34,6 +34,7 @@ const router = createBrowserRouter([
         action: dashboardAction,
         errorElement: <Error />,
       },
+
       {
         path: "/budget-app/budget/:id",
         element: <BudgetPage />,
@@ -48,14 +49,14 @@ const router = createBrowserRouter([
         ],
       },
       {
-        path: "/expenses",
+        path: "/budget-app/expenses",
         element: <ExpensesPage />,
         loader: expensesLoader,
         action: expensesAction,
         errorElement: <Error />,
       },
       {
-        path: "/logout",
+        path: "/budget-app/logout",
         action: logoutAction,
       },
     ],
