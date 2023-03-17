@@ -21,7 +21,6 @@ import { deleteBudget } from "./actions/deleteBudget";
 
 const router = createBrowserRouter([
   {
-    basename: "/budget-app",
     path: "/",
     element: <Main />,
     loader: mainLoader,
