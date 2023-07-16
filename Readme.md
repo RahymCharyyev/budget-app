@@ -6,15 +6,14 @@
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RahymCharyyev/react-router-budget-app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RahymCharyyev/budget-app.git?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RahymCharyyev/budget-app.git?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RahymCharyyev/react-router-budget-app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RahymCharyyev/budget-app.git?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RahymCharyyev/react-router-budget-app?color=56BEB8">
+  <img alt="Github forks" src="https://img.shields.io/github/forks/RahymCharyyev/budget-app.git?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/RahymCharyyev/react-router-budget-app?color=56BEB8" />
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/RahymCharyyev/react-router-budget-app?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/RahymCharyyev/budget-app.git?color=56BEB8" />
 
 </p>
 
@@ -64,10 +63,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/RahymCharryev/react-router-budget-app
+$ git clone https://github.com/RahymCharyyev/budget-app.git
 
 # Access
-$ cd react-router-budget-app
+$ cd budget-app
 
 # Install dependencies
 $ npm install
