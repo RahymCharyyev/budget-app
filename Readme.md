@@ -6,14 +6,11 @@
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RahymCharyyev/budget-app.git?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RahymCharyyev/budget-app.git?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RahymCharyyev/budget-app.git?color=56BEB8">
-
-  <img alt="Github forks" src="https://img.shields.io/github/forks/RahymCharyyev/budget-app.git?color=56BEB8" />
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/RahymCharyyev/budget-app.git?color=56BEB8" />
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RahymCharyyev/budget-app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RahymCharyyev/budget-app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RahymCharyyev/budget-app?color=56BEB8">
+  <img alt="Github forks" src="https://img.shields.io/github/forks/RahymCharyyev/budget-app?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/RahymCharyyev/budget-app?color=56BEB8" />
 
 </p>
 
@@ -32,7 +29,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-screenshots">Screenshots</a> &#xa0; | &#xa0;
-  <a href="#memo-contacts">Author</a>
+  <a href="#memo-contacts">Contacts</a>
 </p>
 
 <br>
