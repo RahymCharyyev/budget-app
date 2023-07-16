@@ -33,7 +33,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-screenshots">Screenshots</a> &#xa0; | &#xa0;
-  <a href="https://github.com/RahymCharyyev" target="_blank">Author</a>
+  <a href="#memo-contacts">Author</a>
 </p>
 
 <br>
